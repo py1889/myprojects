@@ -1,3 +1,6 @@
 this is a test file
+<<<<<<< HEAD
 second
 third
+=======
+>>>>>>> parent of d7d9d28... V2
